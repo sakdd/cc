@@ -1,3 +1,4 @@
-Enviro
-ccc
-11111111111111111
+
+def Add(a,b):
+    return a+b
+print(Add(1,2))
